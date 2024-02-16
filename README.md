@@ -9,7 +9,6 @@
 
 ## 기술 스텍
 (프로젝트를 개발할 때 사용한 기술 스택과 도구를 나열)
-- ㄷㄷㄷ
 - HTML5
 - css3
 - jquery
@@ -32,6 +31,8 @@
 ![pf1](https://github.com/pageservice/personal/assets/71798491/040b7316-5c4c-4a09-b7e8-6c54d60ec832)
 ![pf2](https://github.com/pageservice/personal/assets/71798491/1a7c723b-1e1b-4cb6-9f45-6b17b89482e9)
 ![pf1-어큐닉](https://github.com/pageservice/personal/assets/71798491/3e7a5d1c-3326-4ffc-ac79-3fe4a96fe6a3)
+![pf4](https://github.com/pageservice/personal/assets/71798491/e8b59bed-76df-470c-8aec-71f580ab6cca)
+
 
 
 
